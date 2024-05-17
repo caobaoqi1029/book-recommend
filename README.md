@@ -7,12 +7,12 @@
 
 ## 一、功能
 
-- markdown 拓展支持
-- 引入 giscus 实现评论功能
-- PicGO + OSS 实现图片上传
-- 通过 github workflow 自行搭建部署
-- 提供 Docker Image 容器化部署
-- 通过 electron 打包分发
+- [x] markdown 拓展支持
+- [x] 引入 giscus 实现评论功能
+- [ ] PicGO + OSS 实现图片上传
+- [x] 通过 github workflow 自行搭建部署
+- [ ] 提供 Docker Image 容器化部署
+- [ ] 通过 electron 打包分发
 
 ## 二、安装
 
@@ -26,21 +26,13 @@
 
 ![image-20240516130103516](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/image-20240516130103516.png)
 
-### 2.2 初始化 VitePress
-
-1. `yarn add -D vitepress`
-
-![image-20240516130828804](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/image-20240516130828804.png)
-
-2. `yarn vitepress init`
-
-![image-20240516131011334](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/image-20240516131011334.png)
+2. `yarn install`
 
 3. `yarn run docs:dev`
 
-![image-20240516131146093](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/image-20240516131146093.png)
+![image-20240518000403670](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/202405180004883.png)
 
-![image-20240516131201607](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/image-20240516131201607.png)
+![image-20240518000409563](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/202405180004843.png)
 
 ### 2.2 开发工具
 
@@ -49,5 +41,4 @@
 | WebStorm | 2024.1.2 | 前端开发工具          |
 | Node     | 20.13.0  | JavaScript 运行环境 |
 | yarn     | 1.22.22  | 包管理工具           |
-
 
