@@ -25,7 +25,7 @@
 
 ![image-20240516130103516](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/image-20240516130103516.png)
 
-1. `git clone https://github.com/cbq-2024/book-recommend.git  --depth=1 && cd book-recommend`
+1. `git clone https://github.com/caobaoqi1029/book-recommend.git  --depth=1 && cd book-recommend`
 
 2. `yarn install`
 
