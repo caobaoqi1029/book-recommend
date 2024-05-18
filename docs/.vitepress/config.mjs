@@ -28,7 +28,12 @@ export default defineConfig({
             {
                 text: '🤬 开发',
                 items: [
-                    {text: '🤪 git 学习笔记', link: '/dev-tools/git/index.md'},
+                    {text: '🐲 后端', link: '/dev-tools/backend/index.md'},
+                    {text: '🐮 前端', link: '/dev-tools/frontend/index.md'},
+                    {text: '🥷 数据库', link: '/dev-tools/db/index.md'},
+                    {text: '🕸️ python', link: '/dev-tools/python/index.md'},
+                    {text: '🤪 git 版本控制', link: '/dev-tools/git/index.md'},
+                    {text: '🤬 开发规范', link: '/dev-tools/dev-specifications.md'},
                     {text: '🥸 Index ', link: '/dev-tools/index.md'},
                 ]
             },
@@ -64,7 +69,12 @@ export default defineConfig({
                 link: '/dev-tools/index.md',
                 collapsed: true,
                 items: [
-                    {text: '🤪 git 学习笔记', link: '/dev-tools/git/index.md'},
+                    {text: '🐲 后端', link: '/dev-tools/backend/index.md'},
+                    {text: '🐮 前端', link: '/dev-tools/frontend/index.md'},
+                    {text: '🥷 数据库', link: '/dev-tools/db/index.md'},
+                    {text: '🕸️ python', link: '/dev-tools/python/index.md'},
+                    {text: '🤪 git 版本控制', link: '/dev-tools/git/index.md'},
+                    {text: '🤬 开发规范', link: '/dev-tools/dev-specifications.md'},
                 ]
             },
             {
