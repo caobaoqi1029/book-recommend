@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /start/
+      link: /dev-tools/
     - theme: alt
       text: 版本信息
       link: /CHANGELOG
